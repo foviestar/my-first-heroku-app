@@ -1,1 +1,1 @@
-print('success')
+print('<html><body>success</body></html>')
