@@ -1,1 +1,1 @@
-print('<html><body>success</body></html>')
+print('success')
