@@ -1,1 +1,1 @@
-web: python firstscript.py
+web: gunicorn firstscript.py $PORT
