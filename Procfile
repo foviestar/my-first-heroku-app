@@ -1,1 +1,1 @@
-web: python firstscript.py $PORT
+web: python firstscript.py
